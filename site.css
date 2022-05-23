@@ -39,6 +39,7 @@ body {
     footer {
         float: right;
         width: calc(100% - 250px);
+        text-decoration: underline;
     }
 }
 
